@@ -13,3 +13,11 @@ Szymon Majkut
 Maciej Rajs  
 Bartosz Tyński  
 Alejandro Sanchez Sanz
+
+# Division of labour
+
+* Together we established the schema and structure of the project, and we divided labour
+* Szymon prepared the basic algorithm of the Crawler and implemented those cells
+* Alejandro prepared the algorithm of the Neo4j part and implemented those cells
+* Bartosz and Maciek helped improving the Crawler part after some tests and remarks
+* Together we wrote the wiki
