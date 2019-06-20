@@ -10,7 +10,7 @@ h\* tags, title, etc.).
 ## Team members
 
 Szymon Majkut  
-Maciek Rajs  
+Maciej Rajs  
 Bartosz Tyński  
 Alejandro Sanchez Sanz
 
